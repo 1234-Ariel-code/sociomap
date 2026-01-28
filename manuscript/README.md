@@ -1,5 +1,10 @@
 ### SOCIOMAP: Mapping sociogenomic inequities in chronic disease risk in Nigeria
 
+#### Authors
+
+Ariel G. Kemogne K.; Blessing Itoro Afolayan; Sewade Ogun
+
+
 #### Abstract
 
 Nigeria is home to extensive sociocultural diversity and substantial genetic variation, yet remains underrepresented in data-driven health research. Here we develop an interpretable, end-to-end machine learning framework to quantify how chronic disease burden varies across sociodemographic strata in a nationally representative Nigerian cohort of ~45,000 individuals. We harmonize ICD-10 diagnoses, lifestyle factors, and sociodemographic variables and derive binary disease phenotypes for downstream analyses. We first map disease prevalence and multimorbidity patterns and then test group-wise heterogeneity across tribe, religion, income, and education using chi-squared association analyses. Next, we train gradient-boosted tree models to predict disease risk and apply SHAP to identify transparent, subgroup-aware drivers of prediction, highlighting contributions from adiposity (BMI), socioeconomic status, cultural affiliation proxies, and diet-related variables. Unsupervised embedding and clustering further reveal latent population subgroups enriched for distinct sociodemographic and lifestyle profiles, consistent with non-uniform risk architectures across the cohort. To support translation, we operationalize the framework in interactive Dash/Streamlit tools for risk scoring and explanation. Together, these results demonstrate that chronic disease risk in Nigeria is strongly structured by intersecting social and lifestyle dimensions and provide a scalable, open framework for equity-centered precision public health and future integration with polygenic scores and gene–environment interaction analyses.
