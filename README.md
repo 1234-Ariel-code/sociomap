@@ -12,8 +12,5 @@
 1. Open the main notebook: `code/sociomap.ipynb`
 2. Run cells in order to reproduce preprocessing, analyses, and figures.
 
-## Manuscript
-The current manuscript is in `manuscript`.
-
 ## Citation
 If you use this repository, please cite the SOCIOMAP manuscript (preprint link to be added).
