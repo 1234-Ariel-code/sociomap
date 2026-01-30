@@ -1,9 +1,5 @@
 ### SOCIOMAP: Mapping sociogenomic inequities in chronic disease risk in Nigeria
 
-#### Authors
-
-Ariel G. Kemogne K.; Blessing Itoro Afolayan; Sewade Ogun
-
 
 #### Abstract
 
