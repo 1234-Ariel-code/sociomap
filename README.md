@@ -1,6 +1,6 @@
 # SOCIOMAP
 
-Quote: “Imagine being able to predict who is most at risk of hypertension not just from their genes, but from their tribe, diet, religion, and income. In Africa, where health inequities are deeply rooted in both biological diversity and sociocultural complexity, such insight is urgently needed.”, Authors.
+“Imagine being able to predict who is most at risk of hypertension not just from their genes, but from their tribe, diet, religion, and income. In Africa, where health inequities are deeply rooted in both biological diversity and sociocultural complexity, such insight is urgently needed.”, Authors.
 
 ![canvas-image-1-1769551027544](https://github.com/user-attachments/assets/9a51b574-e401-4cba-a178-ff94cef7874a)
 
