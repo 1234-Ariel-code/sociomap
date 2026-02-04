@@ -12,5 +12,11 @@
 1. Open the main notebook: `code/sociomap.ipynb`
 2. Run cells in order to reproduce preprocessing, analyses, and figures.
 
+## Interactive demo (public)
+
+A **public, privacy-safe interactive demo** based on a fully simulated Nigerian-like cohort is available here:
+**https://sociomap-owjbfnfa3cmr7zuvzs2euq.streamlit.app/**
+The demo allows users to explore stratified prevalence, χ² heterogeneity, interpretable risk models, and latent population subgroups **without exposing any real participant-level data**.
+
 ## Citation
 If you use this repository, please cite the SOCIOMAP manuscript (preprint link to be added).
