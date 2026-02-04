@@ -6,7 +6,6 @@ This repository contains the **public interactive demo** for the paper:
 
 The demo is designed to be **safe to share publicly**: by default it runs on a **simulated (“toy”) Nigerian-like cohort** that reproduces key real-world challenges (high-cardinality groups, underdiagnosis/access bias, ICD noise, missingness, multimorbidity, and interaction-driven risk), **without releasing any participant-level data**.
 
-You can deploy this app to **Streamlit Community Cloud** and cite the resulting link in the manuscript as the official *Demo & Interactive Tool*.
 
 ---
 
@@ -234,39 +233,6 @@ One row per individual.
 
 ---
 
-## Deploy publicly on Streamlit Community Cloud (recommended)
-
-### 1) Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial SOCIOMAP Streamlit demo"
-git branch -M main
-git remote add origin https://github.com/<YOUR-ORG-OR-USER>/sociomap-demo.git
-git push -u origin main
-```
-
-### 2) Deploy with Streamlit Cloud
-
-1. Go to **Streamlit Community Cloud**
-2. Click **New app**
-3. Select:
-   - repository: `sociomap-demo`
-   - branch: `main`
-   - main file: `app.py`
-4. Deploy and copy the public URL
-
----
-
-### 3) Cite in the paper
-
-Add a line in the manuscript:
-
-> **Interactive demo (simulated public cohort):** [Streamlit URL]
-
----
-
 ## Reproducibility
 
 - The simulated demo is fully seeded.
@@ -285,13 +251,6 @@ If you want:
 - subgroup SHAP aggregation,
 
 an optional **“SHAP mode”** can be enabled when `shap` is installed and data size is manageable.
-
----
-
-## License
-
-Choose a license consistent with your sharing goals.  
-For journal artifacts and research software, **MIT License** is commonly used.
 
 ---
 
