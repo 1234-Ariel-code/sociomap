@@ -13,7 +13,7 @@ import umap
 
 # Optional: SHAP can be heavy; for demo we produce a proxy "importance"
 # using absolute correlation with model logit or feature gain-like score.
-# If you want true SHAP later, we can swap this in.
+# If we want true SHAP later, we can swap this in.
 
 def simulate_toy_cohort(N=8000, seed=7):
     rng = np.random.default_rng(seed)
